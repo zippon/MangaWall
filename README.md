@@ -1,6 +1,6 @@
 # Short Description
 
-![MangaWall](https://github.com/zippon/MangaWall/wiki/images/us_manga.jpg)
+![MangaWall](https://github.com/zippon/MangaWall/wiki/images/manga1.jpg)
 
 ##Overview
 The files in this folder simply allows you to create an manga collage with a set of input images. We features in the following points:
@@ -33,5 +33,6 @@ The binary requires a list which contains a set of images. A typical example for
 
 Then, you are required to enter the expected **width** and **height** for the manga collage canvas.
 
-##Contact
+##Short Video Demo
 
+http://youtu.be/fJ2fnkNuWQA
