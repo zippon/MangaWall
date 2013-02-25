@@ -1,6 +1,6 @@
 # Short Description
 
-![MangaWall](https://github.com/zippon/MangaWall/wiki/images/us_manga.jpg)
+       ![MangaWall](https://github.com/zippon/MangaWall/wiki/images/us_manga.jpg)
 ##Overview
 The files in this folder simply allows you to create an manga collage with a set of input images. We features in the following points:
 
